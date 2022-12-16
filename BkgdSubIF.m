@@ -1,5 +1,5 @@
 
-This script subtracts the background from images 
+This script subtracts the background from images m
 Files must use the data-xy-channel-timpoint naming convention, e.g.:
 2018-12-06-xy11c2t011.tif
 Path: the path of the folder containing your images e.g. C:\Users\AndrewPaek\Desktop\Movies\2018-12-06\RAW_DATA
